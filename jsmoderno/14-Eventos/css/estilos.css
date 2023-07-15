@@ -1,0 +1,15 @@
+body{
+    font-family: serif;
+    /* overflow: hidden; */
+}
+
+
+.footer{
+    position: absolute;
+    transform: translateY(800px);
+    transition: transform 1s;
+}
+
+.activo{
+    transform: translateY(0);
+}
